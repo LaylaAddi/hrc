@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  handle: MyString
+  contact: MyString
+  telephone: MyString
+  fax: MyString
+  location: MyString
+  broker_mc: MyString
+  carrier_mc: MyString
+  dot_number: MyString
+
+two:
+  name: MyString
+  handle: MyString
+  contact: MyString
+  telephone: MyString
+  fax: MyString
+  location: MyString
+  broker_mc: MyString
+  carrier_mc: MyString
+  dot_number: MyString
